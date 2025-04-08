@@ -1,10 +1,10 @@
 {
-   "firstName": "Yudha",
-   "lastName": "Harwanto Putra",
+   "firstName": "Sidqi",
+   "lastName": "Athallah Ar",
    "gender": "male",
-   "age": 20,
+   "age": 19,
    "address": {
-       "streetAddress": "Adhyaksa 4",
+       "streetAddress": "Lotus",
        "city": "Bandung",
        "state": "West Java"
    },

@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "firstName": "Nicho",
+      "lastName": "Putra Irawan",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022330091"
+    },
+    {
+      "firstName": "Yudha",
+      "lastName": "Harwanto putra",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300010"
+    },
+    {
+      "firstName": "Nur Ilmi",
+      "lastName": "Mufidah",
+      "gender": "female",
+      "age": 20,
+      "nim": "103022300005"
+    },
+    {
+      "firstName": "Rizqie",
+      "lastName": "Ahmad",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300118"
+    },
+    {
+      "firstName": "Sidqi",
+      "lastName": "Athallah",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300108"
+    },
+    {
+      "firstName": "Benaya",
+      "lastName": "Sinulingga",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022330122"
+    }
+  ]
+}

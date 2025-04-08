@@ -6,5 +6,6 @@ public class main
     {
         DataMahasiswa103022330091.readJSON();
         TeamMembers103022330091.readJSON();
+        GlossaryItem103022330091.readJSON();
     }
 }

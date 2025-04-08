@@ -34,18 +34,18 @@ public class DataMahasiswa103022300010
 
 	public static void ReadJSON()
 	{
-		string json = File.ReadAllText("jurnal7_1_103022300010");
+		string json = File.ReadAllText("jurnal7_1_103022300010.json");
 		Mahasiswa mahasiswa = JsonSerializer.Deserialize<Mahasiswa>(json);
 		Console.WriteLine($"Nama {mahasiswa.nama.firstName} {mahasiswa.nama.lastName}" +
-			$" jenis kelamin {mahasiswa.gender} " +
-			$"berusia {mahasiswa.age} " +
-			$"alamat {mahasiswa.address}" +
-			$"");
+			$"jenis kelamin {mahasiswa.gender}" +
+			$"berusia {mahasiswa.age}" +
+			$"alamat {mahasiswa.address}");
 
 		for (int i = 0; i < mahasiswa.courses.Length; i++)
 		{
-			Console.Writeline($"daftar matkul: {mahasiswa.courses[i]}");
-		}
+			Console.WriteLine($"daftar matkul: {mahasiswa.courses[i].code}");
+            Console.WriteLine($"daftar matkul: {mahasiswa.courses[i].name}");
+        }
 
 	}
 }

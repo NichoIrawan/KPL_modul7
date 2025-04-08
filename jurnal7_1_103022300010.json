@@ -1,15 +1,24 @@
 {
-   "firstName": "Yudha",
-   "lastName": "Harwanto Putra",
-   "gender": "male",
-   "age": 20,
-   "address": {
-       "streetAddress": "Adhyaksa 4",
-       "city": "Bandung",
-       "state": "West Java"
-   },
-   "courses": [
-       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
-       { "code": "CCK2JAC2", "name": "Proyek Tingkat II" }
-   ]
+  "nama": {
+    "firstName": "Yudha",
+    "lastName": "Harwanto Putra"
+  },
+    "gender": "male",
+    "age": 20,
+    "address": {
+      "streetAddress": "Adhyaksa 4",
+      "city": "Bandung",
+      "state": "West Java"
+    },
+    "courses": [
+      {
+        "code": "CCK2KAB4",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CCK2JAC2",
+        "name": "Proyek Tingkat II"
+      }
+    ]
+  
 }

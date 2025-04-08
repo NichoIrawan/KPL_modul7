@@ -1,0 +1,21 @@
+{
+  "firstName": "Nur Ilmi",
+  "lastName": "Mufidah",
+  "gender": "perempuan",
+  "age": 20,
+  "address": {
+    "streetAddress": "Jl. Tatatnugraha",
+    "city": "Sukabumi",
+    "state": "Indonesia"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2FAB4",
+      "name": "Arsitekur dan Dedain PL"
+    }
+  ]
+}

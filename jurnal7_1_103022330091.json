@@ -1,0 +1,15 @@
+{
+   "firstName": "Nicholas Putra",
+   "lastName": "Irawan",
+   "gender": "male",
+   "age":19,
+   "address": {
+       "streetAddress": "Ciganitri",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2HAB4", "name": "Basis Data" }
+   ]
+}
